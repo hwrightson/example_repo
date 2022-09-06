@@ -4,7 +4,7 @@ This repo contains road traffic accident data from Hackney council. The purpose 
 
 ## Authors
 - [@hwrightson](https://github.com/hwrightson)
-- [@Racheloy] (https://github.com/Racheloy)
+- [@Racheloy](https://github.com/Racheloy)
 
 ## Overview
 
